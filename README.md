@@ -8,6 +8,7 @@ e -> e + t | e-t | t     </br>
 t -> t x f | t / f | f</br>
 f -> (e) | number   #bracket </br>
 
+![alt text](https://github.com/lisa710junyi/CGF-toy/blob/main/calc.png?raw=true)
 
-
+![alt text](https://github.com/lisa710junyi/CGF-toy/blob/main/parse_tree_2.png?raw=true)
 
